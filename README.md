@@ -4,7 +4,7 @@ Kanban is a tool that will allow you to organize the tasks that need to be compl
 
 Generally, a Kanban tool will consist of buckets. These buckets will store tasks which are known as cards. The cards will contain the task title and description. These cards can be moved around from bucket to bucket to show the status of each task. 
 
-The buckets will be called To Do, In Progress and Completed. In this project, we will be downloading dependencies from Node Package Manager (NPM) that will allow us to drag and drop components within our application. 
+The buckets will be called To Do, In Progress and Completed.
 
 ## To run the app
 
